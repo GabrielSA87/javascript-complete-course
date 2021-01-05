@@ -1,6 +1,6 @@
-# Calculadora JavaScript
+# Calculator - JavaScript
 
-Calculadora desenvolvida para fins de estudo para o Curso Completo de JavaScript na Udemy.com.
+Calculator developed for study purposes on the JavaScript Complete Course on Udemy.
 
-### Projeto
+### Project
 ![Calculadora]
